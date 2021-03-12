@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Working as Software Engineer at ![Magrathea Labs](https://magrathealabs.com/pt-br/) since 2020.
+Working as Software Engineer at ![Magrathea Labs](https://github.com/magrathealabs) since 2020.
 
 ## Publish
 
