@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Working as Software Engineer at ![Magrathea Labs](https://magrathealabs.com/pt-br/) since 2020.
+
 ## Publish
 
 - ![Modal Logic Library in Coq](https://github.com/arielsilveira/ModalLibrary)
