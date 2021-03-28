@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Working as Software Engineer at ![Magrathea Labs](https://github.com/magrathealabs) since 2020.
-Bachelors degree in Computer Science (UDESC).
-[Doing] Master's Degree at UFOP.
+- Working as Software Engineer at ![Magrathea Labs](https://github.com/magrathealabs) since 2020.
+- Bachelors degree in Computer Science (UDESC).
+- [Doing] Master's Degree at UFOP.
 
 ## Publish
 
