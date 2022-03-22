@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- Working as Software Engineer at ![Magrathea Labs](https://github.com/magrathealabs) since 2020.
+- Working as Software Engineer at ![Trusted Health](https://www.trustedhealth.com/) since 2022.
 - Bachelors degree in Computer Science (UDESC).
 - [Doing] Master's Degree at UFOP.
 
