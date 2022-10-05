@@ -6,7 +6,7 @@
 
 ## Publish
 
-- ![Modal Logic Library in Coq](https://github.com/arielsilveira/ModalLibrary)
+- ![Modal Logic Library in Coq](https://github.com/funcao/ModalLibrary)
 
 
 
