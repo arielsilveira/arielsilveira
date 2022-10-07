@@ -7,7 +7,7 @@
 ## Publish
 
 - ![Modal Logic Library in Coq](https://github.com/funcao/ModalLibrary)
-
+- ![A Sound Deep Embedding of Arbitrary Normal Modal Logics in Coq](https://dl.acm.org/doi/10.1145/3561320.3561329)
 
 
 
