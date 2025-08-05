@@ -2,7 +2,7 @@
 
 - Working as Software Engineer at ![Trusted Health](https://www.trustedhealth.com/) since 2022.
 - Bachelors degree in Computer Science (UDESC).
-- [Doing] Master's Degree at UFOP.
+- Master's Degree at UFOP.
 
 ## Publish
 
